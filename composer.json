@@ -1,5 +1,5 @@
 {
-  "name": "7csn/dataset",
+  "name": "7csn/chaser-dataset",
   "description": "数据包特征、实例",
   "type": "library",
   "require": {
